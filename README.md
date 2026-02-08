@@ -23,7 +23,8 @@ The project includes:
 
 The graph below shows how the agent improves over time as it plays more games and learns from experience:
 
-![Training Progress Graph](images/training_graph.png)
+![Training Progress Graph]()<img width="1600" height="795" alt="Figure_1" src="https://github.com/user-attachments/assets/68ea7522-aa8f-43e8-9217-a3fd10ce9370" />
+
 
 - X-axis: Number of games played  
 - Y-axis: Score  
