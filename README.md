@@ -13,9 +13,9 @@ The project includes:
 ## 🎮 Game Preview
 
 ### Snake Game Gameplay
-> Below is a screenshot of the Snake AI game running in Pygame:
+> Below is a video of the Snake AI game running in Pygame:
 
-![Snake Game Screenshot](images/game.png)
+https://github.com/user-attachments/assets/c43e1eae-b732-4359-9712-c577482bd7d6
 
 ---
 
@@ -23,7 +23,7 @@ The project includes:
 
 The graph below shows how the agent improves over time as it plays more games and learns from experience:
 
-![<img width="1600" height="795" alt="Figure_1" src="https://github.com/user-attachments/assets/68ea7522-aa8f-43e8-9217-a3fd10ce9370" />
+<img width="1600" height="795" alt="Figure_1" src="https://github.com/user-attachments/assets/68ea7522-aa8f-43e8-9217-a3fd10ce9370" />
 
 
 - X-axis: Number of games played  
